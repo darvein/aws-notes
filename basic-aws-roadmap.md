@@ -12,6 +12,8 @@
 - Type of instances
 - Pricing Models or Purchase options
 - How to connect to an EC2 (windows, linux)?
+    - linux: SSH Daemon, SSM
+    - windows: RDP
 ### Storage (EBS)
 ### Auto-scaling (ALBs, TGs, SGs)
 ### Networking (?)

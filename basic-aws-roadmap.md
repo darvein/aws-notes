@@ -9,6 +9,9 @@
 - How to purchase and sell an AMI
 - Sharing AMIs
 ### Instance Types
+- Type of instances
+- Pricing Models or Purchase options
+- How to connect to an EC2 (windows, linux)?
 ### Storage (EBS)
 ### Auto-scaling (ALBs, TGs, SGs)
 ### Networking (?)

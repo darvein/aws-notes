@@ -15,6 +15,21 @@
     - linux: SSH Daemon, SSM
     - windows: RDP
 ### Storage (EBS)
+- EBS Volumes
+    - What is it?
+    - Types
+    - Attach a vol to an instance (linux)
+- EBS Snapshots
+    - What is it?
+        - Archive Tier (saves costs)?
+    - How to create a snapshot?
+    - Share an snapshot
+    - EBS Monitoring
+    - Others: S3, EFS, FSX
 ### Auto-scaling (ALBs, TGs, SGs)
 ### Networking (?)
 ### Security (?)
+
+## VPC
+## S3
+## RDS

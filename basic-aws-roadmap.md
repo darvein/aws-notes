@@ -39,6 +39,11 @@ Some references:
 - ASG: What are Warm Pools?
 - SG: How different are Security Groups vs Network ACLs (nacl)?
 ### Networking (?)
+- Differences between private ip and public ip
+    - Difference between EIP and Auto-assigned public ip
+- How DHCP and DNS work?
+- What is an AWS Region and a Zone??
+- Network Interfaces: ENI, ENA, EFA
 ### Security (?)
 
 ## VPC

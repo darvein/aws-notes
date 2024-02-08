@@ -37,7 +37,6 @@ Some references:
 - ASG: How to create an Autoscaling group?
 - ASG: What are the different ways to scale an ASG?
 - ASG: What are Warm Pools?
-- SG: How different are Security Groups vs Network ACLs (nacl)?
 ### Networking (?)
 - Differences between private ip and public ip
     - Difference between EIP and Auto-assigned public ip
@@ -45,7 +44,11 @@ Some references:
 - What is an AWS Region and a Zone??
 - Network Interfaces: ENI, ENA, EFA
 ### Security (?)
-
+- What is and How to use an IAM Role in EC2?
+- SG: How different are Security Groups vs Network ACLs (nacl)?
+- Key Pairs and usage (linux, windows) (?)
+- What are AWS Shield and AWS WAF?
+- How AWS KMS works for EBS?
 ## VPC
 ## S3
 ## RDS

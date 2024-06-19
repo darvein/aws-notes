@@ -68,6 +68,7 @@ Source	tf/vpc/.terraform/modules/modules.json	/^{"Modules":[{"Key":"","Source":"
 Source	tf/vpc/.terraform/modules/modules.json	/^{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"vpc","Source":".\/vpc-mod","Dir":"vpc-mod"}/;"	s	object:Modules.1
 Storage (EBS)	basic-aws-roadmap.md	/^### Storage (EBS)$/;"	S	section:AWS Basic and Essential Roadmap""EC2
 TODOs	readme.md	/^## TODOs$/;"	s	chapter:AWS Notes
+Terraform AWS VPC Module	tf/vpc/REAME.md	/^# Terraform AWS VPC Module$/;"	c
 VPC	basic-aws-roadmap.md	/^## VPC$/;"	s	chapter:AWS Basic and Essential Roadmap
 Virtualization	ec2.md	/^### Virtualization$/;"	S	section:EC2 Notes""AMIs
 cidr_block	tf/vpc/vpc-mod/variables.tf	/^variable "cidr_block" {$/;"	v
